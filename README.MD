@@ -121,7 +121,7 @@
 
 * [Page Web De Maitenance](https://github.com/david95thinkcode/Pade-web-de-maitenance) - Page web à utiliser quand un site est en cours de maintenance **By [@david95thinkcode](https://github.com/david95thinkcode)**
 * [pfSense-pkg-zeek](https://github.com/shadonet/pfSense-pkg-zeek) - Zeek ( formerly Bro) Network Security Monitor package for pfSense router/firewall. **By [@shadonet](https://github.com/shadonet)**
-* [php_generator](https://github.com/leplutonien/php_generator) - PhpGenerator generates applications using PHP and MySQL database. **By [@leplutonien](https://github.com/leplutonien)**
+* [PhpGenerator](https://github.com/leplutonien/php_generator) - PhpGenerator generates applications using PHP and MySQL database. **By [@leplutonien](https://github.com/leplutonien)**
 * [phpSNMP](https://github.com/brexis/phpSNMP) - A composer version of the phpSNMP library. **By [@brexis](https://github.com/brexis)**
 * [PHPUnit Webdriver Formatter](https://github.com/sorich87/phpunitwdformatter) - PHPUnit Webdriver Formatter for Selenium IDE. **By [@sorich87](https://twitter.com/sorich87)**
 * [Planefigures](https://github.com/OthnielDona/planefigures) -  A turtle based package that makes drawing common geometric plane shapes a breeze. **By [@OthnielDona](https://github.com/OthnielDona)**
@@ -148,6 +148,7 @@
 * [Sails hook soft delete](https://github.com/eldomagan/sails-hook-soft-delete) - Add soft delete to sails Waterline ORM. **By [@EldoMagan](https://twitter.com/eldomagan)**
 * [sails-rest-adapter](https://github.com/eldomagan/sails-restful-adapter) - A sails adapter for Sails / Waterline to use a rest api as data source. **By [@EldoMagan](https://twitter.com/eldomagan)**
 * [Simple Paint App](https://github.com/david95thinkcode/SimplePaintApp) - This is an application that allows users to paint using their mouse. **By [@david95thinkcode](https://github.com/david95thinkcode)**
+* [Sharefiles](https://github.com/leplutonien/sharefiles) - Système simplifié des partages des fichiers en réseau. **By [@leplutonien](https://github.com/leplutonien)**
 * [sphinx-bot](https://github.com/PythonBenin/sphinx-bot) - Python Benin Reminder Bot. This app remind you when you ask him to remind **By [@PythonBenin](http://www.pythonbenin.com/)**
 
 
