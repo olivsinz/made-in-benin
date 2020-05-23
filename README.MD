@@ -164,6 +164,11 @@
 
 ## <a name="V"> </a>V
 
+* [Vuex ORM Plugin: LocalForage](https://github.com/eldomagan/vuex-orm-localforage) - Vuex ORM persistence plugin to sync the store against IndexedDB using localforage. **By [@EldoMagan](https://twitter.com/eldomagan)**
+* [Vuex ORM Plugin: LocalForage Exemple](https://github.com/eldomagan/vuex-orm-localforage-exemples) - The example application to demonstrate the use case of the Vuex ORM. It's a simple ToDo application which can add assignee to each todo. **By [@EldoMagan](https://twitter.com/eldomagan)**
+
+
+
 ## <a name="W"> </a>W
 
 * [Web Socket Android Client](https://github.com/geeckmc/WebSocketAndroidClient) -  Android webSocket client for Ratchet Server. **By [@shadai_ali](https://twitter.com/shadai_ali)**
