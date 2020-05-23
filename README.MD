@@ -2,7 +2,7 @@
 
 ## <a name="A"> </a>A
 
-* [Carnet d'adresses avec MySQL](https://github.com/leplutonien/address_book) - Système simplifié des partages des fichiers en réseau. **By [@leplutonien](https://github.com/leplutonien)**
+* [Carnet d'adresses avec MySQL](https://github.com/leplutonien/address_book) - C'est une application qui permert d'enregistrer des informations importantes de vos contacts, avec utilisation du pattern DAO. **By [@leplutonien](https://github.com/leplutonien)**
 * [alert.sh](https://github.com/geeckmc/alert.sh) -  Desktop notification for CI pipelines. **By [@shadai_ali](https://twitter.com/shadai_ali)**
 * [Android RIL Hack](https://github.com/geeckmc/AndroidRILHack) - PA miserable code for desperately trying to communicate directly with the RIL from High Layer Android App. **By [@shadai_ali](https://twitter.com/shadai_ali)**
 * [android-sdk](https://github.com/kkiapay/android-sdk) - Android Sdk for KKIAPAY API. **By [@kkiapay](https://kkiapay.me/)**
@@ -54,6 +54,7 @@
 * [Fedapay PHP](https://github.com/fedapay/fedapay-php) - PHP library for FedaPay Api. **By [@fedapay ](https://www.fedapay.com)**
 * [Fedapay Reactjs](https://github.com/fedapay/fedapay-reactjs) - FedaPay integration for ReactJs applications. **By [@fedapay ](https://www.fedapay.com)**
 * [Fedapay Ruby](https://github.com/fedapay/fedapay-ruby) - Ruby library for FedaPay Api. **By [@fedapay ](https://www.fedapay.com)**
+* [fongbe](https://github.com/oqenyite/fongbe) - Keyboard map for fongbe, the most popular language of Benin. **By [@oqenyite ](https://github.com/oqenyite)**
 * [FormHandlerBundle](https://github.com/eldomagan/form-handler-bundle) - This bundle add FormHandle to Symfony3 Form component. **By [@EldoMagan](https://twitter.com/eldomagan)**
 
 ## <a name="G"> </a>G
@@ -71,6 +72,7 @@
 
 * [idea-keep](https://github.com/nelsonkam/idea-keep) - Keep your ideas as they come. A rails app. **By [@nelsonkamga](https://twitter.com/nelsonkamga)**
 * [import-users-from-csv](https://github.com/sorich87/import-users-from-csv) - WordPress plugin - Import users from a CSV file into WordPress. **By [@sorich87](https://twitter.com/sorich87)**
+* [ina-mobile](https://github.com/BeninDevelopers/ina-mobile) - ina-mobile is a mobile application which permit to know the availability of light in an area at Benin country. **By [@BeninDevelopers](https://github.com/BeninDevelopers)**
 * [Introductory Screen Exemple](https://github.com/dongorias/IntroductoryScreenExemple) - An Android library to make sublime home screen for your application. **By [@dongorias](https://github.com/dongorias)**
 * [instagram-unfollow-batch](https://github.com/homescriptone/instagram-unfollow-batch) - Unfollow Instagram accounts that do not follow you easily. **By [@homescriptone](https://github.com/homescriptone)**
 
