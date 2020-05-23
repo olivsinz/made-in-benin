@@ -8,6 +8,7 @@
 * [Angular6 Bootstrap4 Firebase E-commerce Application](https://github.com/shadonet/angular6-bootstrap4-firebase-ecommerce-application) - E-commerce web app based on angular 6, bootstrap 4 and firebase. **By [@shadonet](https://github.com/shadonet)**
 * [Angular JS XLSX](https://github.com/brexis/angular-js-xlsx) - An angular directive to read XLSX / XLSM / XLSB / XLS / SpreadsheetML (Excel Spreadsheet). **By [@brexis](https://github.com/brexis)**
 * [auth-basic](https://github.com/nelsonkam/auth-basic) - A simple Flask API template with JWT authentication. **By [@nelsonkamga](https://twitter.com/nelsonkamga)**
+* [Axios Rest](https://github.com/eldomagan/axios-rest) - A simple axios wrapper to make rest api call delightful. **By [@EldoMagan](https://twitter.com/eldomagan)**
 
 
 ## <a name="B"> </a>B
@@ -66,6 +67,7 @@
 
 * [idea-keep](https://github.com/nelsonkam/idea-keep) - Keep your ideas as they come. A rails app. **By [@nelsonkamga](https://twitter.com/nelsonkamga)**
 * [import-users-from-csv](https://github.com/sorich87/import-users-from-csv) - WordPress plugin - Import users from a CSV file into WordPress. **By [@sorich87](https://twitter.com/sorich87)**
+* [Introductory Screen Exemple](https://github.com/dongorias/IntroductoryScreenExemple) - An Android library to make sublime home screen for your application. **By [@dongorias](https://github.com/dongorias)**
 * [instagram-unfollow-batch](https://github.com/homescriptone/instagram-unfollow-batch) - Unfollow Instagram accounts that do not follow you easily. **By [@homescriptone](https://github.com/homescriptone)**
 
 
