@@ -140,6 +140,9 @@
 
 ## <a name="S"> </a>S
 
+* [Sails Hook Resources](https://github.com/eldomagan/sails-hook-resources) - Provide a REST interface and more to your waterline models. **By [@EldoMagan](https://twitter.com/eldomagan)**
+* [Sails hook soft delete](https://github.com/eldomagan/sails-hook-soft-delete) - Add soft delete to sails Waterline ORM. **By [@EldoMagan](https://twitter.com/eldomagan)**
+* [sails-rest-adapter](https://github.com/eldomagan/sails-restful-adapter) - A sails adapter for Sails / Waterline to use a rest api as data source. **By [@EldoMagan](https://twitter.com/eldomagan)**
 * [Simple Paint App](https://github.com/david95thinkcode/SimplePaintApp) - This is an application that allows users to paint using their mouse. **By [@david95thinkcode](https://github.com/david95thinkcode)**
 * [sphinx-bot](https://github.com/PythonBenin/sphinx-bot) - Python Benin Reminder Bot. This app remind you when you ask him to remind **By [@PythonBenin](http://www.pythonbenin.com/)**
 
