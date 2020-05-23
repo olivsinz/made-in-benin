@@ -78,8 +78,10 @@
 
 ## <a name="K"> </a>K
 * [kkiapay-give](https://github.com/kkiapay/kkiapay-give) - The KKiapay-Give plugin extends Give(wordpress donation plugin) by allowing you to receive donations directly for your association via the KKIAPAY Widget. **By [@kkiapay](https://kkiapay.me)**
+* [kkiapay php-sdk](https://github.com/kkiapay/php-sdk) - Admin KkiaPay Sdk for PHP. **By [@kkiapay](https://kkiapay.me)**
+* [kkiapay PrestaShop Module](https://github.com/kkiapay/PrestaShop-module) - KKiapay PrestaShop module allowing you to take payments directly on your store via KKIAPAY Widget. **By [@kkiapay](https://kkiapay.me)**
 * [kkiapay-python](https://github.com/PythonBenin/kkiapay-python) - Community-driven Admin KkiaPay Sdk for Python. **By [@PythonBenin](http://www.pythonbenin.com/)**
-* [kNN](https://github.com/geeckmc/kNN) - Petite implémentation de l'algorithme k plus proches voisins. **By [@shadai_ali](https://twitter.com/shadai_ali) and ?**
+* [kNN](https://github.com/geeckmc/kNN) - Petite implémentation de l'algorithme k plus proches voisins. **By [@shadai_ali](https://twitter.com/shadai_ali) and [@jgantindev](https://twitter.com/jgantindev) ?**
 * [kotlin-android-redux-counter](https://github.com/nelsonkam/kotlin-android-redux-counter) - An Android counter app built in Kotlin following Redux principles. **By [@nelsonkamga](https://twitter.com/nelsonkamga)**
 
 
@@ -114,11 +116,9 @@
 
 * [Page Web De Maitenance](https://github.com/david95thinkcode/Pade-web-de-maitenance) - Page web à utiliser quand un site est en cours de maintenance **By [@david95thinkcode](https://github.com/david95thinkcode)**
 * [pfSense-pkg-zeek](https://github.com/shadonet/pfSense-pkg-zeek) - Zeek ( formerly Bro) Network Security Monitor package for pfSense router/firewall. **By [@shadonet](https://github.com/shadonet)**
-* [php-sdk](https://github.com/kkiapay/php-sdk) - Admin KkiaPay Sdk for PHP. **By [@kkiapay](https://kkiapay.me)**
 * [phpSNMP](https://github.com/brexis/phpSNMP) - A composer version of the phpSNMP library. **By [@brexis](https://github.com/brexis)**
 * [PHPUnit Webdriver Formatter](https://github.com/sorich87/phpunitwdformatter) - PHPUnit Webdriver Formatter for Selenium IDE. **By [@sorich87](https://twitter.com/sorich87)**
 * [Planefigures](https://github.com/OthnielDona/planefigures) -  A turtle based package that makes drawing common geometric plane shapes a breeze. **By [@OthnielDona](https://github.com/OthnielDona)**
-* [PrestaShop-module](https://github.com/kkiapay/PrestaShop-module) - KKiapay PrestaShop module allowing you to take payments directly on your store via KKIAPAY Widget. **By [@kkiapay](https://kkiapay.me)**
 
 
 ## <a name="Q"> </a>Q
