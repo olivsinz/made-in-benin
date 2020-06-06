@@ -160,6 +160,7 @@
 * [The Loops](https://github.com/sorich87/the-loops) - Like Drupal Views but for WordPress, The Loops allows you to query the WordPress database for content and display it in a page without having to write php code. **By [@sorich87](https://twitter.com/sorich87)**
 * [Ticko](https://github.com/homescriptone/ticko) - Events Tickets Selling WooCommerce. **By [@homescriptone](https://github.com/homescriptone)**
 * [Trezzo](https://github.com/nelsonkam/trezzo) - Receive feedback and bug reports from your users directly into Trello. **By [@nelsonkamga](https://twitter.com/nelsonkamga)**
+* [Todoist Linux](https://github.com/kamhix/todoist-linux) - The linux desktop application for todoist. **By [@kamhix ](https://github.com/kamhix)**
 * [Twig Avatar Extension](https://github.com/0l1v3r5/twig-avatar-extension) - Twig Avatar Extension helps to generate user avatar using name initials letter inside Twig templates. **By [@zinsouoliviers](https://twitter.com/zinsouoliviers)**
 * [Twig Country Extension](https://github.com/0l1v3r5/twig-country-extension) - Twig Country Extension helps to convert two letter country to country name. **By [@zinsouoliviers](https://twitter.com/zinsouoliviers)**
 * [Twig Number Abbreviation Extension](https://github.com/0l1v3r5/twig-number-abbreviation-extension) - Twig Number Abbreviation Extension helps to display an easy-to-read format for your numbers. **By [@zinsouoliviers](https://twitter.com/zinsouoliviers)**
