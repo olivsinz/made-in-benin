@@ -59,7 +59,6 @@
 
 ## <a name="G"> </a>G
 
-* [github-api](https://github.com/PythonBenin/github-api) - Make the integration of the github API easy for humans. **By [@PythonBenin](http://www.pythonbenin.com/)**
 * [Github to Bitbucket Issues Migration](https://github.com/sorich87/github-to-bitbucket-issues-migration) - Migrate issues from a Github repository to a Bitbucket one. **By [@sorich87](https://twitter.com/sorich87)**
 
 
