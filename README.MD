@@ -188,7 +188,6 @@
 * [WooCommerce Order Duplicator](https://github.com/homescriptone/order-duplicator) - Duplicate easily WooCommerce Order. **By [@homescriptone](https://github.com/homescriptone)**
 * [WooCommerce Email Domain Validator](https://github.com/homescriptone/email-domain-validator-for-woocommerce) - An easy tool for prevent email spamming on your WooCommerce store. **By [@homescriptone](https://github.com/homescriptone)**
 * [wordpress-plugin](https://github.com/kkiapay/wordpress-plugin) - The KKiapay plugin extends WooCommerce allowing you to take payments directly on your store via KKIAPAY Widget. **By [@kkiapay](https://kkiapay.me)**
-* [WP Media Assistant](https://github.com/JustinyAhin/wp-media-assistant) - Display useful informations about your WordPress media library - **By [@JustinyAhin](https://github.com/JustinyAhin)**
 * [wpjobster-kkiapay](https://github.com/kkiapay/wpjobster-kkiapay) - Kkiapay WP Jobster Plugin. **By [@kkiapay](https://kkiapay.me)**
 
 
