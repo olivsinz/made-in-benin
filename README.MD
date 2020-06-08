@@ -117,6 +117,8 @@
 
 ## <a name="O"> </a>O
 
+* [OpenStreetMap With Ionic 4 ](https://github.com/amilamen/openstreetmap_with_ionic4) - Integration of OpenStreetMap in Ionic Framework v4 application. **By [@ezchilamen](https://twitter.com/ezchilamen)**
+
 * [Oweather](https://github.com/david95thinkcode/Oweather) - A minimalist Weather forecast app built with Ionic Framework **By [@david95thinkcode](https://github.com/david95thinkcode)**
 
 
