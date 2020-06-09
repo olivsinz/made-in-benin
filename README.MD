@@ -9,6 +9,7 @@
 * [Angular6 Bootstrap4 Firebase E-commerce Application](https://github.com/shadonet/angular6-bootstrap4-firebase-ecommerce-application) - E-commerce web app based on angular 6, bootstrap 4 and firebase. **By [@shadonet](https://github.com/shadonet)**
 * [Angular JS XLSX](https://github.com/brexis/angular-js-xlsx) - An angular directive to read XLSX / XLSM / XLSB / XLS / SpreadsheetML (Excel Spreadsheet). **By [@brexis](https://github.com/brexis)**
 * [auth-basic](https://github.com/nelsonkam/auth-basic) - A simple Flask API template with JWT authentication. **By [@nelsonkamga](https://twitter.com/nelsonkamga)**
+* [awesome-livewire](https://github.com/dehboris/awesome-livewire) - A curated list of awesome things related to Hugo. **By [@dehboris](https://github.com/dehboris)**
 * [Axios Rest](https://github.com/eldomagan/axios-rest) - A simple axios wrapper to make rest api call delightful. **By [@EldoMagan](https://twitter.com/eldomagan)**
 
 
@@ -158,6 +159,7 @@
 
 * [The Loops](https://github.com/sorich87/the-loops) - Like Drupal Views but for WordPress, The Loops allows you to query the WordPress database for content and display it in a page without having to write php code. **By [@sorich87](https://twitter.com/sorich87)**
 * [Ticko](https://github.com/homescriptone/ticko) - Events Tickets Selling WooCommerce. **By [@homescriptone](https://github.com/homescriptone)**
+* [Tilebase](https://github.com/dehboris/tilebase) - Tile base is a curated list of components used by Laravel Dashboard. **By [@dehboris](https://github.com/dehboris)**
 * [Trezzo](https://github.com/nelsonkam/trezzo) - Receive feedback and bug reports from your users directly into Trello. **By [@nelsonkamga](https://twitter.com/nelsonkamga)**
 * [Todoist Linux](https://github.com/kamhix/todoist-linux) - The linux desktop application for todoist. **By [@kamhix ](https://github.com/kamhix)**
 * [Twig Avatar Extension](https://github.com/0l1v3r5/twig-avatar-extension) - Twig Avatar Extension helps to generate user avatar using name initials letter inside Twig templates. **By [@zinsouoliviers](https://twitter.com/zinsouoliviers)**
