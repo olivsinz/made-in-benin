@@ -61,6 +61,7 @@
 ## <a name="G"> </a>G
 
 * [Github to Bitbucket Issues Migration](https://github.com/sorich87/github-to-bitbucket-issues-migration) - Migrate issues from a Github repository to a Bitbucket one. **By [@sorich87](https://twitter.com/sorich87)**
+* [getting-started-cdn-ionic](https://github.com/amilamen/getting-started-cdn-ionic) - Test IONIC Framework CDN. **By [@ezchilamen](https://twitter.com/ezchilamen)**
 
 
 ## <a name="H"> </a>H
