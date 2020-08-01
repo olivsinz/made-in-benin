@@ -189,7 +189,7 @@
 
 
 ## <a name="W"> </a>W
-
+* [wewoko](https://wewoko.com) -  Une nouvelle de vendre ces services freelances en Afrique. **By [@homescriptone](https://twitter.com/homescriptone) & [@beattractive](https://web.facebook.com/Be-Attractive-100890238049201)**
 * [Web Socket Android Client](https://github.com/geeckmc/WebSocketAndroidClient) -  Android webSocket client for Ratchet Server. **By [@shadai_ali](https://twitter.com/shadai_ali)**
 * [whmcs-fedapay](https://github.com/fedapay/whmcs-fedapay) - FedaPay third party payment gateway module for WHMCS. **By [@fedapay ](https://www.fedapay.com)**
 * [woocommerce-gateway-fedapay](https://github.com/fedapay/woocommerce-gateway-fedapay) - FedaPay official WooCommerce gateway. **By [@fedapay ](https://www.fedapay.com)**
