@@ -104,7 +104,8 @@
 
 ## <a name="M"> </a>M
 
-* [Masonite Forum](https://github.com/hellomasonite/masonite-forum) - Vote based Question & Answer site built using Masonite Framework. **By [@jgantindev](https://twitter.com/jgantindev)**
+* [Masonite Forum](https://github.com/hellomasonite/masonite-forum) - 🤖 Flexible Social Authentication for Masonite Framework **By [@hellomasonite](https://www.hellomasonite.com/)**
+* [Masonite Socialite](https://github.com/hellomasonite/masonite-socialite) - Vote based Question & Answer site built using Masonite Framework. **By [@jgantindev](https://www.hellomasonite.com)**
 * [masonite-snippets-vscode](https://github.com/nioperas06/masonite-snippets-vscode) - Masonite Snippets for VS Code. **By [@jgantindev](https://twitter.com/jgantindev)**
 * [MOOZISMS-ANDROID_SDK](https://github.com/geeckmc/MOOZISMS-ANDROID_SDK) -  Android sdk for send sms with moozisms platform. **By [@shadai_ali](https://twitter.com/shadai_ali)**
 * [MOOZISMS-JAVASCRIPT_SDK](https://github.com/geeckmc/MOOZISMS-JAVASCRIPT_SDK) - Javascript client for send sms via moozisms platform. **By [@shadai_ali](https://twitter.com/shadai_ali)**
