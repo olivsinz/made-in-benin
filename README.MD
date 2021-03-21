@@ -122,6 +122,8 @@
 
 * [Oweather](https://github.com/david95thinkcode/Oweather) - A minimalist Weather forecast app built with Ionic Framework **By [@david95thinkcode](https://github.com/david95thinkcode)**
 
+* [ORM With Python](https://github.com/yannickkiki/yann-orm) - Simple ORM with Python. **By [@yannickkiki](https://github.com/yannickkiki)**
+
 
 ## <a name="P"> </a>P
 
