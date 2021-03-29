@@ -114,6 +114,7 @@
 ## <a name="N"> </a>N
 
 * [nodejs-sdk](https://github.com/kkiapay/nodejs-sdk) - KkiaPay Admin Sdk. **By [@kkiapay](https://kkiapay.me)**
+* [nodejs-typescript-graphql-api-boilerplate](https://github.com/Goldy98/my-node-typescript-graphql-api-boilerplate) - This project is a starting point to build a Graphql API with NodeJS and Typescript. **By [@Goldy98](https://github.com/Goldy98/)**
 
 
 ## <a name="O"> </a>O
@@ -159,6 +160,7 @@
 * [Simple Paint App](https://github.com/david95thinkcode/SimplePaintApp) - This is an application that allows users to paint using their mouse. **By [@david95thinkcode](https://github.com/david95thinkcode)**
 * [Sharefiles](https://github.com/leplutonien/sharefiles) - Système simplifié des partages des fichiers en réseau. **By [@leplutonien](https://github.com/leplutonien)**
 * [sphinx-bot](https://github.com/PythonBenin/sphinx-bot) - Python Benin Reminder Bot. This app remind you when you ask him to remind **By [@PythonBenin](http://www.pythonbenin.com/)**
+* [Shacli](https://github.com/Goldy98/shacli) - Shacli provide a shared clipboard between two devices (everything copied on one device is available to download on the other devices) **By [@Goldy98](https://github.com/Goldy98/)**
 
 
 ## <a name="T"> </a>T
