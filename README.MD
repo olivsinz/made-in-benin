@@ -75,8 +75,7 @@
 * [import-users-from-csv](https://github.com/sorich87/import-users-from-csv) - WordPress plugin - Import users from a CSV file into WordPress. **By [@sorich87](https://twitter.com/sorich87)**
 * [ina-mobile](https://github.com/BeninDevelopers/ina-mobile) - ina-mobile is a mobile application which permit to know the availability of light in an area at Benin country. **By [@BeninDevelopers](https://github.com/BeninDevelopers)**
 * [Introductory Screen Exemple](https://github.com/dongorias/IntroductoryScreenExemple) - An Android library to make sublime home screen for your application. **By [@dongorias](https://github.com/dongorias)**
-* [instagram-unfollow-batch](https://github.com/
-one/instagram-unfollow-batch) - Unfollow Instagram accounts that do not follow you easily. **By [@homescriptone](https://github.com/homescriptone)**
+* [instagram-unfollow-batch](https://github.com/homescriptone/instagram-unfollow-batch) - Unfollow Instagram accounts that do not follow you easily. **By [@homescriptone](https://github.com/homescriptone)**
 
 
 ## <a name="J"> </a>J
@@ -180,7 +179,9 @@ one/instagram-unfollow-batch) - Unfollow Instagram accounts that do not follow y
 ## <a name="U"> </a>U
 
 * [ultimate-cordova-webview-app](https://github.com/nioperas06/ultimate-cordova-webview-app) - Build Cross-Platform Mobile App for your website. **By [@jgantindev](https://twitter.com/jgantindev)**
-* [ultimate-sms-notifications-for-woocommerce](https://wordpress.org/plugins/ultimate-sms-notifications/) - Une extension WordPress permettant de notifier les propriétaires de boutique WooCommerce ou les clients par SMS. **By [@homescriptone](https://twitter.com/homescriptone) - Maintened by [@manutheblacker](https://twitter.com/manutheblacker)**
+* [ultimate-sms-notifications-for-woocommerce](https://wordpress.org/plugins/ultimate-sms-notifications/) - Une extension WordPress permettant de notifier les propriétaires de boutique WooCommerce ou les clients par SMS. **By [@
+
+one](https://twitter.com/homescriptone) - Maintened by [@manutheblacker](https://twitter.com/manutheblacker)**
 
 
 ## <a name="V"> </a>V
