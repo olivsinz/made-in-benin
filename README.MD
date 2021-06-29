@@ -57,6 +57,7 @@
 * [Fedapay Ruby](https://github.com/fedapay/fedapay-ruby) - Ruby library for FedaPay Api. **By [@fedapay ](https://www.fedapay.com)**
 * [fongbe](https://github.com/oqenyite/fongbe) - Keyboard map for fongbe, the most popular language of Benin. **By [@oqenyite ](https://github.com/oqenyite)**
 * [FormHandlerBundle](https://github.com/eldomagan/form-handler-bundle) - This bundle add FormHandle to Symfony3 Form component. **By [@EldoMagan](https://twitter.com/eldomagan)**
+* [Formulus](https://github.com/homescriptone/formulus) - A mini factory to build your UI in few seconds into WordPress. **By [@homescriptone](https://github.com/homescriptone)**
 
 ## <a name="G"> </a>G
 
@@ -74,7 +75,8 @@
 * [import-users-from-csv](https://github.com/sorich87/import-users-from-csv) - WordPress plugin - Import users from a CSV file into WordPress. **By [@sorich87](https://twitter.com/sorich87)**
 * [ina-mobile](https://github.com/BeninDevelopers/ina-mobile) - ina-mobile is a mobile application which permit to know the availability of light in an area at Benin country. **By [@BeninDevelopers](https://github.com/BeninDevelopers)**
 * [Introductory Screen Exemple](https://github.com/dongorias/IntroductoryScreenExemple) - An Android library to make sublime home screen for your application. **By [@dongorias](https://github.com/dongorias)**
-* [instagram-unfollow-batch](https://github.com/homescriptone/instagram-unfollow-batch) - Unfollow Instagram accounts that do not follow you easily. **By [@homescriptone](https://github.com/homescriptone)**
+* [instagram-unfollow-batch](https://github.com/
+one/instagram-unfollow-batch) - Unfollow Instagram accounts that do not follow you easily. **By [@homescriptone](https://github.com/homescriptone)**
 
 
 ## <a name="J"> </a>J
