@@ -40,6 +40,7 @@
 ## <a name="D"> </a>D
 
 * [decoupage_territorial_benin](https://github.com/leplutonien/decoupage_territorial_benin) - Fichier du découpage territorial du Bénin utilisable par les devs. **By [@leplutonien](https://github.com/leplutonien)**
+* [Docker for Django](https://github.com/homescriptone/docker-for-django) - A template to easily build a Django project in a Docker container. **By [@homescriptone](https://github.com/homescriptone)**
 
 
 ## <a name="E"> </a>E
