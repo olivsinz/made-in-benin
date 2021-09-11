@@ -163,6 +163,7 @@
 * [Sharefiles](https://github.com/leplutonien/sharefiles) - Système simplifié des partages des fichiers en réseau. **By [@leplutonien](https://github.com/leplutonien)**
 * [sphinx-bot](https://github.com/PythonBenin/sphinx-bot) - Python Benin Reminder Bot. This app remind you when you ask him to remind **By [@PythonBenin](http://www.pythonbenin.com/)**
 * [Shacli](https://github.com/Goldy98/shacli) - Shacli provide a shared clipboard between two devices (everything copied on one device is available to download on the other devices) **By [@Goldy98](https://github.com/Goldy98/)**
+* [Svelte DataTables](https://github.com/homescriptone/svelte-datatables) - Like Jquery Datatables but for Svelte, it allows you to use DataTables into your Svelte/Routify/Sapper application project. ) **By [@HomeScript](https://homescriptone.com/)**
 
 
 ## <a name="T"> </a>T
