@@ -182,9 +182,7 @@
 ## <a name="U"> </a>U
 
 * [ultimate-cordova-webview-app](https://github.com/nioperas06/ultimate-cordova-webview-app) - Build Cross-Platform Mobile App for your website. **By [@jgantindev](https://twitter.com/jgantindev)**
-* [ultimate-sms-notifications-for-woocommerce](https://wordpress.org/plugins/ultimate-sms-notifications/) - Une extension WordPress permettant de notifier les propriétaires de boutique WooCommerce ou les clients par SMS. **By [@
-
-one](https://twitter.com/homescriptone) - Maintened by [@manutheblacker](https://twitter.com/manutheblacker)**
+* [ultimate-sms-notifications-for-woocommerce](https://wordpress.org/plugins/ultimate-sms-notifications/) - Une extension WordPress permettant de notifier les propriétaires de boutique WooCommerce ou les clients par SMS. **By [@homescriptone](https://twitter.com/homescriptone) - Maintened by [@manutheblacker](https://twitter.com/manutheblacker)**
 
 
 ## <a name="V"> </a>V
