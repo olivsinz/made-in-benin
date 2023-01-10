@@ -60,6 +60,7 @@
 * [fongbe](https://github.com/oqenyite/fongbe) - Keyboard map for fongbe, the most popular language of Benin. **By [@oqenyite ](https://github.com/oqenyite)**
 * [FormHandlerBundle](https://github.com/eldomagan/form-handler-bundle) - This bundle add FormHandle to Symfony3 Form component. **By [@EldoMagan](https://twitter.com/eldomagan)**
 * [Formulus](https://github.com/homescriptone/formulus) - A mini factory to build your UI in few seconds into WordPress. **By [@homescriptone](https://github.com/homescriptone)**
+* [fuzzy-couscous](https://github.com/Tobi-De/fuzzy-couscous) - A cli tool to bootstrap your django projects and enhance your development experience. **By** [@Tobi-De](https://github.com/Tobi-De)
 
 ## <a name="G"> </a>G
 
