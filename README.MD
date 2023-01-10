@@ -35,6 +35,7 @@
 * [CourisTic](https://github.com/david95thinkcode/CourisTic) - Mobile Travel App **By [@david95thinkcode](https://github.com/david95thinkcode) and [@donJusto](https://github.com/donJusto)**
 * [Crypto List](https://github.com/nioperas06/crypto-list) - Learn Angular fondammentals by building a simple cryptocurrency tracker. **By [@jgantindev](https://twitter.com/jgantindev)**
 * [CSV To Mixpanel](https://github.com/sorich87/csv-to-mixpanel) - Import people from a CSV file to Mixpanel. **By [@sorich87](https://twitter.com/sorich87)**
+* [cookiecutter-fastapi](https://github.com/tobi-de/cookiecutter-fastapi) - Cookiecutter fastapi is a framework for jumpstarting production-ready fastapi projects quickly. **By** [@Tobi-De](https://github.com/Tobi-De)
 
 
 ## <a name="D"> </a>D
