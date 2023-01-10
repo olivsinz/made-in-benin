@@ -144,6 +144,7 @@
 
 * [QML Bootstrap](https://github.com/brexis/qml-bootstrap) - Sweet Qml components inspired from Ionic framework style for mobile and desktop Qt/Qml projects. **By [@brexis](https://github.com/brexis)**
 * [Quiz Trivia](https://github.com/homescriptone/Quiz-Trivia) - A simple question answers game made in Vue.Js. **By [@homescriptone](https://github.com/homescriptone)**
+* [qosic-sdk](https://github.com/Tobi-De/qosic-sdk) - An unofficial python sdk for the [QosIc](https://www.qosic.com) platform. **By** [@Tobi-De](https://github.com/Tobi-De)
 
 
 ## <a name="R"> </a>R
