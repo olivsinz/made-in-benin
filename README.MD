@@ -103,6 +103,7 @@
 * [Laravel Data Method](https://github.com/brexis/laravel-data-method) - Useful Laravel form submission helpers. **By [@brexis](https://github.com/brexis)**
 * [Laravel SSO](https://github.com/brexis/laravel-sso) - Laravel SSO package. **By [@brexis](https://github.com/brexis)**
 * [LaRueInfo](https://github.com/sethgnavo/LaRueInfo) -  A good Android app for daily news updates. **By [@sethgnavo](https://github.com/sethgnavo)**
+* [Location Data BJ JS](https://github.com/Dahkenangnon/location_data_bj_js) - Benin Republic territory data for web and JS apps. **By [@Dahkenangnon](https://github.com/Dahkenangnon)**
 * [Logasia Test](https://github.com/brexis/logasia-test) - Logasia test assignment. **By [@brexis](https://github.com/brexis)**
 * [lulz-scraping](https://github.com/kkiapay/lulz-scraping) - KkiaPay Admin Sdk. **By [@kkiapay](https://kkiapay.me)**
 
